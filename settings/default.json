@@ -1,0 +1,7 @@
+{
+  "name": "Default settings file",
+  "something": 10,
+  "count": {
+    "default": 5
+  }
+}
