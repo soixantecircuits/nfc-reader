@@ -45,5 +45,3 @@ npm run package:all # All platforms, all architectures
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://soixantecircuits.github.io/nd/).
-
-:wq
