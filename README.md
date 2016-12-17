@@ -13,7 +13,7 @@
 
 ``` bash
 # install dependencies
-npm install
+yarn
 
 ./node_modules/.bin/electron-rebuild
 
